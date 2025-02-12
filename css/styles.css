@@ -106,6 +106,7 @@ section.contenu .circle {
     height: 210px;
     line-height: 210px;
     border-radius: 50%;
+    border-width: 5px;
     border-color: #D35400;
     border-style: solid;
     font-size: 1.875rem;
